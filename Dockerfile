@@ -1,3 +1,3 @@
 FROM node:lts-alpine
 
-RUN apk add git && npm install -g solhint
+RUN npm install -g solhint

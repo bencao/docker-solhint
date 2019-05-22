@@ -1,5 +1,5 @@
 # docker-solhint
 
-Build minimal docker images that has solhint and git available.
+Minimal docker image with solhint.
 
-This can be useful for simple CI tasks.
+This can be useful for CI tasks.
